@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=TLI Tracker
+Comment=Torchlight: Infinite tracker (English translation)
+Exec=tli-tracker
+Icon=tli-tracker
+Type=Application
+Categories=Game;Utility;
